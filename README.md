@@ -1,2 +1,2 @@
-# antisprint
-this is my anti sprint repo
+# gnome
+this is my gnome built webpage
