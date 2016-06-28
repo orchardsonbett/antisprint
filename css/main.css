@@ -18,7 +18,7 @@ body {
 }
 .header p{
     float: right;
-    padding-top: 70px;
+    padding-top: 20px;
     background-color: #37373C;
     color: #777;
     font-size: 1.4em;
@@ -54,7 +54,7 @@ hr {
     background-color: white;
 }
 .main-block h2 {
-    padding-top: 30px;
+    padding-top: 20px;
     padding-bottom: 20px;
     font-size: 2em;
     margin-left: 60px;
@@ -86,7 +86,7 @@ hr {
 .img-container{
     display: inline-block;
     padding-left: 176px;
-    padding-top: 80px;
+    padding-top: 20px;
     max-width: 250px;
 }
 .img-container img{
@@ -98,7 +98,7 @@ hr {
 }
 .img-container h4{
     text-align: center;
-    padding-top: 90px;
+    padding-top: 20px;
     font-size: 1.5em;
     font-family: 'Montserrat', sans-serif;
 }
@@ -163,7 +163,7 @@ hr {
 }
 .space p{
     text-align: center;
-    padding-top: 3px;
+    padding-top: 20px;
     font-size: 2em;
     color: white;
 }
@@ -174,7 +174,7 @@ hr {
 }
 .title-goes h5{
     font-size: 2em;
-    padding-top: 30px;
+    padding-top: 20px;
     padding-left: 60px;
     font-family: 'Montserrat', sans-serif;
 }
