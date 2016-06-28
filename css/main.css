@@ -107,3 +107,98 @@ hr {
     padding-top: 20px;
     color: #777;
 }
+/*Title*/
+.title{
+    margin-top: 30px
+}
+.title img{
+    position: relative;
+}
+#text1{
+    position: absolute;
+    width: 55.5%;
+    height: 500px;
+    background-color: white;
+}
+#text1 h5{
+    font-size: 2em;
+    padding-left: 120px;
+    font-family: 'Montserrat', sans-serif;
+}
+#text1 p{
+    color: #777;
+    font-size: 1.5em;
+    padding-left: 120px
+}
+/*Title2*/
+.title2{
+    margin-top: 550px;
+}
+#text-title2{
+    width: 55.5%;
+    float: right;
+    background-color: white;
+    height: 500px;
+}
+
+.title2 img{
+    position: relative;
+}
+#text-title2 h5{
+    font-size: 2em;
+    padding-left: 90px;
+    font-family: 'Montserrat', sans-serif;
+}
+#text-title2 p{
+    font-size: 1.5em;
+    color: #777;
+    padding-right: 200px;
+    padding-left: 90px
+}
+/*Space*/
+.space{
+    background-color: #00FF45;
+    height: 140px;
+    margin-top: 1083px;
+}
+.space p{
+    text-align: center;
+    padding-top: 3px;
+    font-size: 2em;
+    color: white
+}
+/*Title-goes*/
+.title-goes{
+    background-color: white;
+    height: 200px
+}
+.title-goes h5{
+    font-size: 2em;
+    padding-top: 30px;
+    padding-left: 60px;
+    font-family: 'Montserrat', sans-serif;
+}
+.title-goes p{
+    color: #777;
+    font-size: 1.5em;
+    padding-left: 60px;
+}
+/*Footer*/
+.footer{
+    background-color: #37373C;
+    height: 120px
+}
+.footer p{
+    text-align: center;
+    color: #F4D600;
+    margin-top: 20px;
+    font-size: 1.2em;
+    padding-top: 20px;
+}
+a:hover{
+    color: #F4D600;
+}
+.hover{
+    color: white;
+    text-align: center;
+}
