@@ -77,3 +77,33 @@ hr {
     margin-left: 60px;
     background-color: #37373C;
 }
+/*container*/
+.logo-container{
+    margin-top: 30px;
+    background-color: white;
+}
+/*img-container*/
+.img-container{
+    display: inline-block;
+    padding-left: 176px;
+    padding-top: 80px;
+    max-width: 250px;
+}
+.img-container img{
+    padding-left: 70px;
+    float: left;
+    display: block;
+    padding-left: 90px;
+    height: 100px;
+}
+.img-container h4{
+    text-align: center;
+    padding-top: 90px;
+    font-size: 1.5em;
+    font-family: 'Montserrat', sans-serif;
+}
+.img-container p{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: #777;
+}
